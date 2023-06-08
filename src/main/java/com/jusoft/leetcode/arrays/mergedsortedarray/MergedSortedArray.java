@@ -1,4 +1,4 @@
-package com.jusoft.leetcode.mergedsortedarray;
+package com.jusoft.leetcode.arrays.mergedsortedarray;
 
 public class MergedSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

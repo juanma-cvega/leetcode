@@ -1,4 +1,4 @@
-package com.jusoft.leetcode.removeelement;
+package com.jusoft.leetcode.arrays.removeelement;
 
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {
